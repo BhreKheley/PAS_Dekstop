@@ -1,0 +1,13 @@
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\bin\Debug\PASdekstop.exe.config
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\bin\Debug\PASdekstop.exe
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\bin\Debug\PASdekstop.pdb
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.csproj.AssemblyReference.cache
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.Form1.resources
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.Form2.resources
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.Form3.resources
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.Form4.resources
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.Properties.Resources.resources
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.csproj.GenerateResource.cache
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.csproj.CoreCompileInputs.cache
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.exe
+C:\Users\sriha\source\repos\PASdekstop\PASdekstop\obj\Debug\PASdekstop.pdb
